@@ -2,6 +2,18 @@
 ## can you become the millionare?
 <img src = "assets/kbc.gif" >
 
+
+## Table of Contents:
+* [INTRODUCTION](#introduction)<br> 
+* [EXPLANATION OF CODE AND WORKING](#explanation-of-code-and-working)<br> 
+* [OUTPUT](#output)<br> 
+* [CONCEPTS USED IN THE CODE - LOOPS](#concepts-used-in-the-code)<br> 
+* [CONCEPTS USED IN THE CODE - SWITCH CASE](#switch-case)<br> 
+* [CONCEPTS USED IN THE CODE - ARRAYS](#arrays)<br> 
+* [CONCEPTS USED IN THE CODE - STRING OPERATIONS](#string-operations)<br> 
+* [CONTRIBUTION](#thanks-for-stopping-by-on-this-project)<br> 
+
+
 ## INTRODUCTION:
 The code designed by us is a comprehensive and error-free Quiz Game Mini Project in. In this project, the user is presented with a series of questions and is offered a monetary in-game reward for each accurate response. In the quiz game, the questions are selected to encompass all aspects of a traditional quiz competition. Quizzes on science, technology, movies, sports, general health, geography, and other topics put the user's general knowledge to the test.
 
@@ -194,7 +206,7 @@ Strupr() | Is used to convert the letters of string to uppercase
 Strrev() | Is used to reverse the string
 
 
-# THANKS FOR STOPPING BY THIS PROJECT!
+# THANKS FOR STOPPING BY ON THIS PROJECT!
 ### THIS PROJECT WAS WORKED ON BY:
 REGISTER NO | NAME
 --- | ---
