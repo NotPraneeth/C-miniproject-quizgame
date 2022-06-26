@@ -56,7 +56,7 @@ statement1;
 // Here if the condition is true, if block 
 // will consider only statement1 to be inside 
 // its block.
-![image](https://user-images.githubusercontent.com/92677364/175828012-b4badbce-2ec2-416f-a090-f6119aef5d4a.png)
+![image](https://user-images.githubusercontent.com/92677364/175829069-8386a429-1b10-4b6a-af8a-d382ec06133f.png)
 
 ### 2)LOOPS:
 In Loop, the statement needs to be written only once and the loop will be executed 10 times as shown below.  In computer programming, a loop is a sequence of instructions that is repeated until a certain condition is reached.
