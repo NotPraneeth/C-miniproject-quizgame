@@ -2,9 +2,8 @@
 ## can you become the millionare?
 <img src = "assets/kbc.gif" >
 
-<details> <summary> ## INTRODUCTION: </summary>
+## INTRODUCTION:
 The code designed by us is a comprehensive and error-free Quiz Game Mini Project in. In this project, the user is presented with a series of questions and is offered a monetary in-game reward for each accurate response. In the quiz game, the questions are selected to encompass all aspects of a traditional quiz competition. Quizzes on science, technology, movies, sports, general health, geography, and other topics put the user's general knowledge to the test.
-</details>
 
 ## EXPLANATION OF CODE AND WORKING:
 We've broken this little project into many functions. We've aimed to cover all the major concepts such as file handling, arrays, loops, string functions etc.
